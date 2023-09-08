@@ -1,0 +1,36 @@
+.box{
+    border:5px solid;
+    border-radius: 5%;
+    width: 200px;
+    height:300px;
+    border-top-color: green;
+    border-bottom-color:blue ;
+    border-left-color:chocolate;
+    border-right-color: cadetblue;
+    background-color: bisque;
+  }
+  .div2{
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+    padding: 20px 10px 15px 18px;
+    
+    
+    
+
+    
+    
+  }
+  .div3{
+    height: 100%;
+    width: 100%;
+    background-color: gray;
+    padding: 20px;
+    
+  }
+  .div3 span{
+    color: red;
+  }
+  
+  
+  
